@@ -5,16 +5,41 @@
 }
 
 header {
+    padding: 16px 0;
+    background-color: #56AEFF;
+    text-shadow: 2px 2px 0 black;
+    color: #FFACEC;
+    
+}
 
-    background-color: rgb(0, 195, 255);
+header h1, header nav li {
+    font-family: 'Bungee', cursive;
 }
 
 header nav li {
     display: inline;
-    margin-left: 18px;
-    font-size: 16px;
+    margin-left: 16px;
 }
 
 header nav li a {
+    text-shadow: 1px 1px 0 black;
     text-decoration: none;
+    color: #FFACEC;
+}
+
+.container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}  
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header img {
+    height: 80px;
+    margin-right: 8px;
 }

@@ -12,8 +12,17 @@ header {
     
 }
 
-header h1, header nav li {
+header, section h2, section h3 {
     font-family: 'Bungee', cursive;
+}
+
+body {
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+section h2, section h3 {
+    text-shadow: 1px 1px 0 black;
+    color: #FFACEC;
 }
 
 header nav li {
@@ -33,7 +42,8 @@ header nav li a {
     margin: 0 auto;
 }  
 
-header .container {
+header .container, 
+section .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -42,4 +52,29 @@ header .container {
 header img {
     height: 80px;
     margin-right: 8px;
+}
+
+.loja {
+    height: 500px;
+}
+
+section .container {
+    align-items: flex-start;
+}
+
+section {
+    padding: 24px 0;
+}
+
+section h2 {
+
+    margin-bottom: 16px;
+}
+
+section p {
+    margin-bottom: 8px;
+}
+
+section img {
+    margin-right: 32px;
 }

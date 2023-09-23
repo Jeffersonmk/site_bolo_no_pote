@@ -18,3 +18,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Modified: changelog.md, index.html, main.css.
 - Add: Images/facebook.png, instagram.png, whatsapp.png and loja.jpg
+
+## [0.0.3] - 2023-08-23
+
+### Added
+
+- Modified: changelog.md, index.html, main.css and loja.jpg.
+- Add: Images/tiktok.png and youtube.png

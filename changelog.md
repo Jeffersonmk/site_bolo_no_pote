@@ -25,3 +25,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Modified: changelog.md, index.html, main.css and loja.jpg.
 - Add: Images/tiktok.png and youtube.png
+
+
+## [0.0.4] - 2023-08-27
+
+### Added
+
+- Modified: changelog.md, index.html and main.css.

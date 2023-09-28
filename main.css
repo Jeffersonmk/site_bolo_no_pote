@@ -85,6 +85,7 @@ section img {
 
 .social-links img {
     height: 30px;
+    margin-right: 0;
 }
 
 .social-links li {
